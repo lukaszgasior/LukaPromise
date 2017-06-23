@@ -1,0 +1,24 @@
+{
+  "name": "LukaPromise",
+  "version": "1.0.0",
+  "description": "My own Promises implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && promises-aplus-tests tests-adapter"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "*",
+    "standard": "^10.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukaszgasior/LukaPromise.git"
+  },
+  "keywords": ["promises", "javascript"],
+  "author": "Lukasz Gasior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukaszgasior/LukaPromise/issues"
+  },
+  "homepage": "https://github.com/lukaszgasior/LukaPromise#readme"
+}
